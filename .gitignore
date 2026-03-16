@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+city_day.csv
+city_hour.csv
+station_day.csv
+station_hour.csv
+stations.csv
